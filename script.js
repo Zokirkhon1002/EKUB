@@ -21,7 +21,7 @@
             }else {
 
             let ekub = EKUB(a,b);
-            out.innerHTML = `a: ${a1} va b: ${b1}<br> sonlarining<br> UKUB = ${ekub}`;
+            out.innerHTML = `a: ${a1} va b: ${b1}<br> sonlarining<br> EKUB = ${ekub}`;
             out.style.color = "#4CAF50";
             
             event.preventDefault();
